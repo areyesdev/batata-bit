@@ -1,2 +1,2 @@
 # batata-bit
-Landing page project 
+Landing page project Platzi 💚
