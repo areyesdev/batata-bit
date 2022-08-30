@@ -365,7 +365,7 @@ main {
   width: 100%;
   min-width: 320px;
   height: 50vh;
-  background-image: url('/assets/img/bitcoinbaby2x.jpg');
+  background-image: url('./../assets/img/bitcoinbaby2x.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -515,7 +515,7 @@ main {
   display: inline-block;
   width: 20px;
   height: 20px;
-  background-image: url('/assets/icons/orange-right-arrow.svg');
+  background-image: url('./../assets/icons/orange-right-arrow.svg');
   vertical-align: text-bottom;
 }
 
